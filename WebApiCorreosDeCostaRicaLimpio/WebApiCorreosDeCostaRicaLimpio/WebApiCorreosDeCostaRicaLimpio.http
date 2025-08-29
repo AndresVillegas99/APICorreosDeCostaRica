@@ -1,0 +1,6 @@
+@WebApiCorreosDeCostaRicaLimpio_HostAddress = http://localhost:5234
+
+GET {{WebApiCorreosDeCostaRicaLimpio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
